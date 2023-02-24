@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {Text, View, ScrollView, Animated, Easing} from 'react-native';
+import {Text, View, ScrollView, Animated, Easing} from 'autohome-lib';
 
 export class AHMYNoticeView extends Component {
     static defaultProps = {
